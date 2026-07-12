@@ -1,6 +1,6 @@
 // Types for your API responses
 export interface User {
-  id: number;
+  _id: number;
   email: string;
   name: string;
 }
